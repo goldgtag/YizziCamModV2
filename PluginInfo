@@ -1,0 +1,17 @@
+using System;
+
+namespace YizziCamModV2
+{
+	// Token: 0x02000006 RID: 6
+	internal class PluginInfo
+	{
+		// Token: 0x04000037 RID: 55
+		public const string GUID = "com.yizzi.gorillatag.yizzicammodv2";
+
+		// Token: 0x04000038 RID: 56
+		public const string Name = "YizziCamModV2";
+
+		// Token: 0x04000039 RID: 57
+		public const string Version = "1.0.8";
+	}
+}
